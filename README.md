@@ -1,4 +1,13 @@
 # Marketing-Performance-Dashboard-Report
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+  
 ### Project Overview
 This project analyzes marketing performance for the year 2021 using a dashboard that tracks campaign effectiveness, marketing channels, audience targeting, and return on investment. The objective is to evaluate how marketing efforts translate into customer engagement, conversions, and overall profitability.
 
