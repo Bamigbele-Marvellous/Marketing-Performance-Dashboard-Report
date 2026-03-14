@@ -2,6 +2,8 @@
 ### Project Overview
 This project analyzes marketing performance for the year 2021 using a dashboard that tracks campaign effectiveness, marketing channels, audience targeting, and return on investment. The objective is to evaluate how marketing efforts translate into customer engagement, conversions, and overall profitability.
 
+<img width="977" height="475" alt="Image" src="https://github.com/user-attachments/assets/158c1b89-b7f2-40d7-b676-5714482f3d03" />
+
 ### Data Sources
 The dataset includes marketing campaign data such as:
 - Impressions
